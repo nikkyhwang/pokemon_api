@@ -39,7 +39,6 @@ $.getJSON( getStuff, doStuff);
   SHOW (DISPLAY ON PAGE)
 ************************************/ 
 let showStuff = function(data) {
-  
   console.log( data );  
  
 }
